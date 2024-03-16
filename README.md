@@ -1,4 +1,11 @@
 ### Hi there 👋
+# YoungJin
+
+###### [ 2021.06 ~ ing ] CC
+<div>
+<a src=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> </a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /><br>
+</div>
 
 <!--
 **pia9322/pia9322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
